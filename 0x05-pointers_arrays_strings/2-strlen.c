@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* _strlen - returns the length of a string
+* _strlen - returns the length of a strin:
 * @s: string to evaluate
 *
 * Return: the length of the string
@@ -17,5 +17,5 @@ while (s[i] != '\0')
 i++;
 }
 
-return (i);
+return (i);
 }
